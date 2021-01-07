@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Icare</string>
+    <string name="google_map_key">AIzaSyA2_JXNkSdDXpRB-LvSi7LMS_KDM49BlBI</string>
+    <string-array name="person">
+        <item>Patient</item>
+        <item>Health Care Provider</item>
+    </string-array>
+</resources>
